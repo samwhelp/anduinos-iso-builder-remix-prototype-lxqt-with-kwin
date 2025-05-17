@@ -34,6 +34,16 @@ xdg-desktop-portal-lxqt
 
 
 ##
+## ## Package / Window Manager / kwin
+##
+
+kwin-x11
+#kwin-wayland
+
+
+
+
+##
 ## ## Package / Window Manager / openbox
 ##
 
