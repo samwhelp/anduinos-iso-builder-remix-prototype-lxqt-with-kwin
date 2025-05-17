@@ -1,6 +1,6 @@
 
 
-# anduinos-iso-builder-remix-prototype-lxqt
+# anduinos-iso-builder-remix-prototype-lxqt-with-kwin
 
 
 
@@ -9,7 +9,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [AnduinOS / ISO Builder / Remix Prototype / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-prototype-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt) |
+| [AnduinOS / ISO Builder / Remix Prototype / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin) |
 | [AnduinOS / ISO Builder / Remix / Lxqt](https://samwhelp.github.io/anduinos-iso-builder-remix-lxqt/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix-lxqt) |
 | [AnduinOS / ISO Builder / Note](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
 
@@ -39,18 +39,18 @@
 
 | Main Module | Purpose |
 | ----------- | ------- |
-| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) | [install package](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install) |
-| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) | [install file](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay) |
+| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) | [install package](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install) |
+| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) | [install file](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay) |
 
 
 | Infrastructure | Purpose |
 | -------------- | ------- |
-| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) | [/etc/dconf](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf) |
-| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
+| [60-dconf-system-db-init-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/60-dconf-system-db-init-mod) | [/etc/dconf](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf) |
+| [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
 
 
-* [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/blob/main/helper/docs/module/module-ignored.md)
-* [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt/blob/main/helper/docs/module/module-adjusted.md)
+* [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/blob/main/helper/docs/module/module-ignored.md)
+* [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/blob/main/helper/docs/module/module-adjusted.md)
 
 
 
@@ -87,17 +87,17 @@ sudo apt-get install git
 ```
 
 
-> clone [anduinos-iso-builder-remix-prototype-lxqt](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt)
+> clone [anduinos-iso-builder-remix-prototype-lxqt-with-kwin](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin)
 
 ``` sh
-git clone https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt.git
+git clone https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin.git
 ```
 
 
-> change dir to `anduinos-iso-builder-remix-prototype-lxqt`
+> change dir to `anduinos-iso-builder-remix-prototype-lxqt-with-kwin`
 
 ``` sh
-cd anduinos-iso-builder-remix-prototype-lxqt
+cd anduinos-iso-builder-remix-prototype-lxqt-with-kwin
 ```
 
 
@@ -113,10 +113,10 @@ make combine-via-git
 ### Build All
 
 
-> change dir to `~/work/anduinos-iso-builder-remix-prototype-lxqt/iso-profile`
+> change dir to `~/work/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/iso-profile`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-remix-prototype-lxqt/iso-profile
+cd ~/work/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/iso-profile
 ```
 
 
@@ -139,10 +139,10 @@ make build-fast
 ### Build Default
 
 
-> change dir to `~/work/anduinos-iso-builder-remix-prototype-lxqt/iso-profile/src`
+> change dir to `~/work/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/iso-profile/src`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-remix-prototype-lxqt/iso-profile/src
+cd ~/work/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/iso-profile/src
 ```
 
 
