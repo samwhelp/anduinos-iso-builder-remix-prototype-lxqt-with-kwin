@@ -41,6 +41,12 @@ kwin-x11
 #kwin-wayland
 
 
+kglobalacceld
+
+
+kwin-addons
+
+
 
 
 ##
