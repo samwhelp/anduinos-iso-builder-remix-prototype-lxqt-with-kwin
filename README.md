@@ -15,6 +15,7 @@
 
 * [Source](#source)
 * [Module](#module)
+* [Config](#config)
 * [Remix](#remix)
 * [Howto](#howto)
 
@@ -46,6 +47,17 @@
 
 * [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/blob/main/helper/docs/module/module-ignored.md)
 * [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/blob/main/helper/docs/module/module-adjusted.md)
+
+
+
+
+## Config
+
+| Config |
+| ------ |
+| [~/.config](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/skel/.config) |
+| [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
+| [/etc/dconf/db/distro.d](https://github.com/samwhelp/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/etc/dconf/db/distro.d) |
 
 
 
